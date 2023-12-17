@@ -1,0 +1,31 @@
+truy vấn thông tin lấy sản phẩm, tên danh mục và tên người quản lý.
+Nếu sp không  có người quản lý, không  có danh mục thì cũng phải lấy ra
+
+-----------------------------------------------------------------------
+
+select 
+p.ProductId,
+p.ProductName,
+c.CategoryName,
+u.UserName
+
+from
+Users as u
+inner join
+Products as p
+on u.UserId = p.UserId
+full join 
+Categories as c
+on p.CategoryId = c.CategoryId
+
+
+-------------------------------------RESULT----------------------------------
+
+ProductId-------------------------------ProductName-----CategoryName---UserName
+
+4DB2D4CC-1336-457B-985F-71F3AF7A9A23	Iphone 15 pro	Smart Phone	Cr7
+F721919F-7328-4B02-99A3-82A57F758510	Air Pod 2	Tai nghe	Vu Van Nam
+9C25D790-2EA8-4B35-8047-8D15C73C17C4	Vision 2023	NULL	        Vu Van Nam
+636617F2-65AA-4B65-A354-AAB73966AEC1	Iphone 14	Smart Phone	Vu Van Nam
+90AC6E6B-50BE-4578-99AA-FFD4BD1E65CB	Iphone 14 pro	Smart Phone	Cr7
+NULL	                                NULL	        Điều hòa        NULL

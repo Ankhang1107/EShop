@@ -1,0 +1,4 @@
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai10\Bai10\obj\Debug\net6.0\Bai10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai10\Bai10\obj\Debug\net6.0\Bai10.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai10\Bai10\obj\Debug\net6.0\Bai10.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai10\Bai10\obj\Debug\net6.0\Bai10.csproj.CoreCompileInputs.cache

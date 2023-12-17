@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBasic", "CSharpBasic\CSharpBasic.csproj", "{18EBE002-72F2-45DD-A58D-532A6E13CFEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console2", "Console2\Console2.csproj", "{C0E34C8C-0091-46DA-9D09-ABC9AE2FABE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson1", "Lesson1", "{0AC00BCA-C6DA-4296-86E6-5547AAF6FE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18EBE002-72F2-45DD-A58D-532A6E13CFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18EBE002-72F2-45DD-A58D-532A6E13CFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18EBE002-72F2-45DD-A58D-532A6E13CFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18EBE002-72F2-45DD-A58D-532A6E13CFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E34C8C-0091-46DA-9D09-ABC9AE2FABE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E34C8C-0091-46DA-9D09-ABC9AE2FABE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E34C8C-0091-46DA-9D09-ABC9AE2FABE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E34C8C-0091-46DA-9D09-ABC9AE2FABE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{18EBE002-72F2-45DD-A58D-532A6E13CFEB} = {0AC00BCA-C6DA-4296-86E6-5547AAF6FE08}
+		{C0E34C8C-0091-46DA-9D09-ABC9AE2FABE7} = {0AC00BCA-C6DA-4296-86E6-5547AAF6FE08}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEE87554-1215-4DF3-BE05-F1509C7B552A}
+	EndGlobalSection
+EndGlobal

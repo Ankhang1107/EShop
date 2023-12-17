@@ -1,0 +1,14 @@
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\Bai5\bin\Debug\net6.0\Bai5.exe
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\Bai5\bin\Debug\net6.0\Bai5.deps.json
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\Bai5\bin\Debug\net6.0\Bai5.runtimeconfig.json
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\Bai5\bin\Debug\net6.0\Bai5.dll
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\Bai5\bin\Debug\net6.0\Bai5.pdb
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\Bai5\obj\Debug\net6.0\Bai5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\Bai5\obj\Debug\net6.0\Bai5.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\Bai5\obj\Debug\net6.0\Bai5.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\Bai5\obj\Debug\net6.0\Bai5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\Bai5\obj\Debug\net6.0\Bai5.dll
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\Bai5\obj\Debug\net6.0\refint\Bai5.dll
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\Bai5\obj\Debug\net6.0\Bai5.pdb
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\Bai5\obj\Debug\net6.0\Bai5.genruntimeconfig.cache
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\Bai5\obj\Debug\net6.0\ref\Bai5.dll

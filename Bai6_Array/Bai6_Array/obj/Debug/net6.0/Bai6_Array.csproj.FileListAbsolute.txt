@@ -1,0 +1,14 @@
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai6_Array\Bai6_Array\bin\Debug\net6.0\Bai6_Array.exe
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai6_Array\Bai6_Array\bin\Debug\net6.0\Bai6_Array.deps.json
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai6_Array\Bai6_Array\bin\Debug\net6.0\Bai6_Array.runtimeconfig.json
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai6_Array\Bai6_Array\bin\Debug\net6.0\Bai6_Array.dll
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai6_Array\Bai6_Array\bin\Debug\net6.0\Bai6_Array.pdb
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai6_Array\Bai6_Array\obj\Debug\net6.0\Bai6_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai6_Array\Bai6_Array\obj\Debug\net6.0\Bai6_Array.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai6_Array\Bai6_Array\obj\Debug\net6.0\Bai6_Array.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai6_Array\Bai6_Array\obj\Debug\net6.0\Bai6_Array.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai6_Array\Bai6_Array\obj\Debug\net6.0\Bai6_Array.dll
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai6_Array\Bai6_Array\obj\Debug\net6.0\refint\Bai6_Array.dll
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai6_Array\Bai6_Array\obj\Debug\net6.0\Bai6_Array.pdb
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai6_Array\Bai6_Array\obj\Debug\net6.0\Bai6_Array.genruntimeconfig.cache
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai6_Array\Bai6_Array\obj\Debug\net6.0\ref\Bai6_Array.dll

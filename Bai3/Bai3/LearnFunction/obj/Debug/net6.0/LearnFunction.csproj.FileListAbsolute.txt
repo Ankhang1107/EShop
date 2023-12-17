@@ -1,0 +1,15 @@
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\LearnFunction\bin\Debug\net6.0\LearnFunction.exe
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\LearnFunction\bin\Debug\net6.0\LearnFunction.deps.json
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\LearnFunction\bin\Debug\net6.0\LearnFunction.runtimeconfig.json
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\LearnFunction\bin\Debug\net6.0\LearnFunction.dll
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\LearnFunction\bin\Debug\net6.0\LearnFunction.pdb
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\LearnFunction\obj\Debug\net6.0\LearnFunction.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\LearnFunction\obj\Debug\net6.0\LearnFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\LearnFunction\obj\Debug\net6.0\LearnFunction.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\LearnFunction\obj\Debug\net6.0\LearnFunction.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\LearnFunction\obj\Debug\net6.0\LearnFunction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\LearnFunction\obj\Debug\net6.0\LearnFunction.dll
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\LearnFunction\obj\Debug\net6.0\refint\LearnFunction.dll
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\LearnFunction\obj\Debug\net6.0\LearnFunction.pdb
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\LearnFunction\obj\Debug\net6.0\LearnFunction.genruntimeconfig.cache
+C:\Users\Admin\Dropbox\KhangVA\An Khang\T3H\Bai3\Bai3\LearnFunction\obj\Debug\net6.0\ref\LearnFunction.dll
